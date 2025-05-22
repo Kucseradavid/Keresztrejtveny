@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, orld!");
+
+            //kód ide
         }
     }
 }
